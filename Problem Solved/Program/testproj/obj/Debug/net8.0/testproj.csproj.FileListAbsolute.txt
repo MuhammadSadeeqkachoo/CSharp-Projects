@@ -1,0 +1,14 @@
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.AssemblyInfoInputs.cache
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.AssemblyInfo.cs
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\bin\Debug\net8.0\testproj.exe
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\bin\Debug\net8.0\testproj.deps.json
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\bin\Debug\net8.0\testproj.runtimeconfig.json
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\bin\Debug\net8.0\testproj.dll
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\bin\Debug\net8.0\testproj.pdb
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.dll
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\refint\testproj.dll
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.pdb
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\testproj.genruntimeconfig.cache
+C:\Users\MUHAMMAD SADEEQ\Desktop\test\Program\testproj\obj\Debug\net8.0\ref\testproj.dll

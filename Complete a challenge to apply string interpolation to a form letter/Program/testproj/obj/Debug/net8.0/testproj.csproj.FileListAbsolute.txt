@@ -1,0 +1,14 @@
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\bin\Debug\net8.0\testproj.exe
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\bin\Debug\net8.0\testproj.deps.json
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\bin\Debug\net8.0\testproj.runtimeconfig.json
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\bin\Debug\net8.0\testproj.dll
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\bin\Debug\net8.0\testproj.pdb
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.AssemblyInfoInputs.cache
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.AssemblyInfo.cs
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.csproj.CoreCompileInputs.cache
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.dll
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\refint\testproj.dll
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.pdb
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\testproj.genruntimeconfig.cache
+D:\C# Projects\Complete a challenge to apply string interpolation to a form letter\Program\testproj\obj\Debug\net8.0\ref\testproj.dll

@@ -1,0 +1,14 @@
+D:\C# Projects\Project5\program5\testproject\bin\Debug\net8.0\testproject.exe
+D:\C# Projects\Project5\program5\testproject\bin\Debug\net8.0\testproject.deps.json
+D:\C# Projects\Project5\program5\testproject\bin\Debug\net8.0\testproject.runtimeconfig.json
+D:\C# Projects\Project5\program5\testproject\bin\Debug\net8.0\testproject.dll
+D:\C# Projects\Project5\program5\testproject\bin\Debug\net8.0\testproject.pdb
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.AssemblyInfoInputs.cache
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.AssemblyInfo.cs
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.csproj.CoreCompileInputs.cache
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.dll
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\refint\testproject.dll
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.pdb
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\testproject.genruntimeconfig.cache
+D:\C# Projects\Project5\program5\testproject\obj\Debug\net8.0\ref\testproject.dll
